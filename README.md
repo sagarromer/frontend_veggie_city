@@ -234,3 +234,7 @@
 44. Deliver Order
     1. create constant, actions and reducers for deliver order
     2. add order deliver action to order details screen
+46. List Users
+    1. build api for list users
+    2. Create UserList Screen
+    3. create order details constant, action and reducer
