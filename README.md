@@ -238,3 +238,6 @@
     1. build api for list users
     2. Create UserList Screen
     3. create order details constant, action and reducer
+48. Edit User
+    1. build api for update users
+    2. create edit screen UI
